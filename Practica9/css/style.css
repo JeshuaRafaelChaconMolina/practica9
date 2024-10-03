@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgb(199, 247, 247);
+}
+nav{
+    background-color: rgb(56, 55, 55);
+}
+
+footer{
+    background-color: blanchedalmond;
+    margin-top: auto;
+    text-align: left;
+}
+.pie{
+    text-align: center;
+}
+.derecho{
+    text-align: right;
+    margin: 10px;
+}
